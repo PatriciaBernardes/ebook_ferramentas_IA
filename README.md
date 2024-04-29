@@ -7,7 +7,7 @@
 
 # Criando um ebook com ferramentas de IA
 
-> ℹ️ **NOTE:** Projeto com o objetivo de gerar um ebook digital com as facilidades das ferramentas de IA. todos os prompts
+> ℹ️ **NOTE:** Projeto com o objetivo de gerar um ebook digital com as facilidades das ferramentas de IA. Todos os prompts
 seguem abaixo.
 
 <a href="https://github.com/PatriciaBernardes/ebook_ferramentas_IA/blob/main/output/Construindo%20Conex%C3%B5es%20para%20Uma%20Web%20Inclusiva%20-%20Patr%C3%ADcia%20Bernardes%20Barcelos.pdf" title="View PDF"> 📕Clique aqui para ler</a>
